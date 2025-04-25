@@ -20,4 +20,14 @@ Ce projet est une application web de quiz développée avec **FastAPI**, **SQLAl
 
 ```bash
 python -m venv myenv
-source myenv/bin/activate  # ou myenv\Scripts\activate sur Windows
+.\myenv\Scripts\Activate
+
+---
+
+## 🧠 Auteur
+
+- Mohamed Rhouma  
+- Étudiant à l’ISET Tozeur  
+- [LinkedIn](https://www.linkedin.com/in/rhouma-mohamed-6291b02b4)  
+- [GitHub](https://github.com/medrhouma)
+

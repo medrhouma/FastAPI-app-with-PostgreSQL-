@@ -14,7 +14,7 @@ Ce projet est une application web de quiz développée avec **FastAPI**, **SQLAl
 
 ---
 
-## ⚙️ Installation
+# ⚙️ Installation
 
 ### 1. Crée un environnement virtuel
 
